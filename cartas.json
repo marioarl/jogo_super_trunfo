@@ -1,0 +1,58 @@
+[
+    {"ID": "A1","Modelo": "T-55", "Potencia": 380, "Velocidade": 51, "Alcance": 660, "Peso": 36,"Comprimento": 9,"Pais": "Russia"}, 
+
+    {"ID": "A2","Modelo": "M1 A2 Abrams", "Potencia": 1100, "Velocidade": 67, "Alcance": 436, "Peso": 63,"Comprimento": 9.8,"Pais": "USA"},
+    
+    {"ID": "A3","Modelo": "Armored Gun", "Potencia": 410, "Velocidade": 72, "Alcance": 483, "Peso": 22.7,"Comprimento": 9.2,"Pais": "USA"},
+
+    {"ID": "A4","Modelo": "VCC 80", "Potencia": 388, "Velocidade": 70, "Alcance": 500, "Peso": 21.6, "Comprimento": 6.7, "Pais": "Italia"},
+
+    {"ID": "B1","Modelo": "M-60", "Potencia": 560, "Velocidade": 48, "Alcance": 500, "Peso": 46, "Comprimento": 6.9, "Pais": "USA"}, 
+    
+    {"ID": "B2","Modelo": "AMX-30", "Potencia": 540, "Velocidade": 65, "Alcance": 600, "Peso": 36, "Comprimento": 9.5, "Pais": "França"},
+
+    {"ID": "  ","Modelo": "ST-1", "Potencia": 9999, "Velocidade": 999, "Alcance": 999, "Peso": 9999, "Comprimento": 99, "Pais": "SUPER TRUNFO"},
+
+    {"ID": "B3","Modelo": "EE-T1", "Potencia": 820, "Velocidade": 70, "Alcance": 550, "Peso": 42.9, "Comprimento": 9.9, "Pais": "Brasil"},
+
+
+    {"ID": "B4","Modelo": "99A", "Potencia": 1120, "Velocidade": 76, "Alcance": 600, "Peso": 55, "Comprimento": 11, "Pais": "China"},
+
+    {"ID": "C1","Modelo": "Leopard 1", "Potencia": 610, "Velocidade": 65, "Alcance": 450, "Peso": 42.2, "Comprimento": 9.5, "Pais": "Alemanha"},
+    
+    {"ID": "C2","Modelo": "M60", "Potencia": 560, "Velocidade": 48, "Alcance": 500, "Peso": 50.7, "Comprimento": 6.9, "Pais": "USA"},
+    
+    {"ID": "C3","Modelo": "Leclerc", "Potencia": 1100, "Velocidade": 71, "Alcance": 650, "Peso": 57.4, "Comprimento": 9.9, "Pais": "França"}, 
+    
+    {"ID": "C4","Modelo": "Leopard 2", "Potencia": 1103, "Velocidade": 68, "Alcance": 490, "Peso": 55, "Comprimento": 7.7, "Pais": "Austria"},
+    
+    {"ID": "D1","Modelo": "SK-105", "Potencia": 238, "Velocidade": 70, "Alcance": 500, "Peso": 45, "Comprimento": 6.2, "Pais": "Austria"},
+    
+    {"ID": "D2","Modelo": "T-72", "Potencia": 580, "Velocidade": 65, "Alcance": 700, "Peso": 41.5, "Comprimento": 6.9, "Pais": "Bulgaria"},
+    
+    {"ID": "D3","Modelo": "Ramses II", "Potencia": 600, "Velocidade": 69, "Alcance": 530, "Peso": 48, "Comprimento": 7.7, "Pais": "Egito"},
+    
+    {"ID": "D4","Modelo": "Arjun", "Potencia": 1044, "Velocidade": 67, "Alcance": 450, "Peso": 58, "Comprimento": 10.19, "Pais": "India"},
+    
+    {"ID": "E1","Modelo": "Zulfiqar", "Potencia": 630, "Velocidade": 69, "Alcance": 530, "Peso": 52, "Comprimento": 9.2, "Pais": "Iran"},
+    
+    {"ID": "E2","Modelo": "Merkava", "Potencia": 1119, "Velocidade": 64, "Alcance": 510, "Peso": 65, "Comprimento": 9.4, "Pais": "Israel"},
+    
+    {"ID": "E3","Modelo": "Ariete", "Potencia": 950, "Velocidade": 65, "Alcance": 600, "Peso": 54, "Comprimento": 9.5, "Pais": "Italia"},
+    
+    {"ID": "E4","Modelo": "T-90", "Potencia": 960, "Velocidade": 70, "Alcance": 350, "Peso": 50.2, "Comprimento": 9.7, "Pais": "Japao"},
+    
+    {"ID": "F1","Modelo": "Chonma-ho", "Potencia": 560, "Velocidade": 50, "Alcance": 450, "Peso": 40, "Comprimento": 6.6, "Pais": "Coreia do Norte"},
+    
+    {"ID": "  ","Modelo": "ST-2", "Potencia": 9999, "Velocidade": 999, "Alcance": 999, "Peso": 9999, "Comprimento": 99, "Pais": "SUPER TRUNFO"},
+    
+    {"ID": "F2","Modelo": "K2", "Potencia": 1103, "Velocidade": 68, "Alcance": 477, "Peso": 55, "Comprimento": 8.2, "Pais": "Coreia do Sul"},
+    
+    {"ID": "F3","Modelo": "Al-Khalid", "Potencia": 890, "Velocidade": 72, "Alcance": 500, "Peso": 46, "Comprimento": 10, "Pais": "Paquistao"},
+    
+    {"ID": "F4","Modelo": "Vickers MBT", "Potencia": 399, "Velocidade": 48, "Alcance": 480, "Peso": 38, "Comprimento": 9.7, "Pais": "Inglaterra"},
+    
+    {"ID": "G1","Modelo": "TR-85", "Potencia": 640, "Velocidade": 60, "Alcance": 400, "Peso": 50, "Comprimento": 9.6, "Pais": "Romenia"},
+    
+    {"ID": "G2","Modelo": "Altay", "Potencia": 1118, "Velocidade": 71, "Alcance": 449, "Peso": 65, "Comprimento": 7.5, "Pais": "Turquia"}
+]
