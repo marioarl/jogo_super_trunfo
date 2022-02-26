@@ -2,6 +2,7 @@ from random import randint
 import os
 import uteis
 import json
+from time import sleep
 
 venc = ""
 monte1 = [] #Monte de cartas para o jogador
@@ -45,6 +46,24 @@ while True:
         uteis.mCartaPre(cartas[monte1[0]]) #Modulo que exibe somente a carta do jogador
         uteis.menu() #Modulo que exibe o menu de escolha de categoria
         catEscolha = int(input("\t\t==> "))
+
+        #Se o jogador digitar a categoria errada, ficara no loop até digitar corretamente
+        while True:
+            if catEscolha <= 0 or catEscolha > 5:
+                print("Categoria errada, escolha uma categoria correta!")
+                for c in range(3, 0, -1):
+                    print(".")
+                    sleep(1)
+                os.system('cls' if os.name == 'nt' else 'clear')
+                uteis.inicio()
+                uteis.placar(monte1, monte2)
+                print("")
+                uteis.mCartaPre(cartas[monte1[0]])
+                uteis.menu()
+
+                catEscolha = int(input("\t\t==> "))
+            else:
+                break
 
 
         #Após escolher a carta, refaz o inicio, placar, menu e mostra a carta do computador
