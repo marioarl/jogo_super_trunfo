@@ -32,7 +32,7 @@
     
     {"ID": "D3","Modelo": "Ramses II", "Potencia": 600, "Velocidade": 69, "Alcance": 530, "Peso": 48, "Comprimento": 7.7, "Pais": "Egito"},
     
-    {"ID": "D4","Modelo": "Arjun", "Potencia": 1044, "Velocidade": 67, "Alcance": 450, "Peso": 58, "Comprimento": 10.19, "Pais": "India"},
+    {"ID": "D4","Modelo": "Arjun", "Potencia": 1044, "Velocidade": 67, "Alcance": 450, "Peso": 58, "Comprimento": 10.2, "Pais": "India"},
     
     {"ID": "E1","Modelo": "Zulfiqar", "Potencia": 630, "Velocidade": 69, "Alcance": 530, "Peso": 52, "Comprimento": 9.2, "Pais": "Iran"},
     
