@@ -135,8 +135,8 @@ while True:
 
                 uteis.placar(monte1, monte2, jogBat, compBat)#ALTERADO
                 print(" ")
-                print(monte1) #Somente para manutencao
-                print(monte2) #Somente para manutencao
+                #print(monte1) #Somente para manutencao
+                #print(monte2) #Somente para manutencao
 
                 uteis.mCartaPos(cartas[monte1[0]], cartas[monte2[0]]) #Mostra as cartas do jogador e comp
                 uteis.menuPos(catEscolha) #Mostra o menu após a escolha da categoria
