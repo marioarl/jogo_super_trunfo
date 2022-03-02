@@ -3,10 +3,11 @@ def inicio():
     print(f"{'*'} {'S U P E R  T R U N F O - T A N Q U E S  D E  G U E R R A':^61} {'*'}")
     print("*"*65)
 
-def placar(a,b):
+def placar(a,b,c,d):
     print(f"{'P L A C A R':^61}")
     print(f"{'':>6}", f"{'_'}"*47)
-    print(f"{'JOGADOR:':>15} {len(a)} cartas    ||||     COMP: {len(b)} cartas ")
+    print(f"{'JOGADOR:':>15} {len(a)} cartas    ||||  COMP:    {len(b)} cartas ")
+    print(f"{'BATALHA:':>15} {(c)}            ||||  BATALHA: {(d)}           ")
     print(f"{'':>6}", f"{'_'}"*47)
 
 
