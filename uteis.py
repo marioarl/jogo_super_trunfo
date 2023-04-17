@@ -4,7 +4,7 @@ init(autoreset=True)
 def inicio():
     print(Fore.BLUE + "*"*65)
     print(f"{Back.WHITE}{Fore.BLACK}{'*'} {'S U P E R  T R U N F O - T A N Q U E S  D E  G U E R R A':^61} {'*'}")
-    print("*"*65)
+    print(Fore.BLUE + "*"*65)
 
 def placar(a,b,c,d):
     print(f"{'P L A C A R':^61}")
