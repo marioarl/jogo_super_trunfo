@@ -1,9 +1,9 @@
-from colorama import Fore, init
+from colorama import Fore, init, Back
 init(autoreset=True)
 
 def inicio():
     print(Fore.BLUE + "*"*65)
-    print(f"{'*'} {'S U P E R  T R U N F O - T A N Q U E S  D E  G U E R R A':^61} {'*'}")
+    print(f"{Back.WHITE}{'*'} {'S U P E R  T R U N F O - T A N Q U E S  D E  G U E R R A':^61} {'*'}")
     print("*"*65)
 
 def placar(a,b,c,d):
