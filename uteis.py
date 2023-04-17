@@ -1,3 +1,6 @@
+from colorama import Fore, init
+
+
 def inicio():
     print("*"*65)
     print(f"{'*'} {'S U P E R  T R U N F O - T A N Q U E S  D E  G U E R R A':^61} {'*'}")
