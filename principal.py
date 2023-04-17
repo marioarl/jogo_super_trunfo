@@ -3,7 +3,7 @@ import os
 import uteis
 import json
 from time import sleep
-from colorama import Fore, init
+
 
 #Inicializando as variaveis
 monte1 = [] #Monte de cartas para o jogador
