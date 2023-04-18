@@ -134,7 +134,7 @@ while True:
                 
 
 
-                uteis.placar(monte1, monte2, jogBat, compBat)#ALTERADO
+                uteis.placar(monte1, monte2, jogBat, compBat)
                 print(" ")
                 #print(monte1) #Somente para manutencao
                 #print(monte2) #Somente para manutencao
