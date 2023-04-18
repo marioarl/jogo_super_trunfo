@@ -67,7 +67,7 @@ while True:
                             sleep(1)
                         os.system('cls' if os.name == 'nt' else 'clear')
                         uteis.inicio()
-                        uteis.placar(monte1, monte2, jogBat, compBat) #ALTERADO
+                        uteis.placar(monte1, monte2, jogBat, compBat)
                         print("")
                         uteis.mCartaPre(cartas[monte1[0]])
                         uteis.menu()
