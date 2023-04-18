@@ -24,7 +24,7 @@ while True:
         for c in range(0,13):#Executa este comando 14 vezes      
             while len(monte1) <= 12:
                 i = randint(0,27) #Escolhe um numero de 0 até 27(28 cartas)
-                if i not in monte1 and i != 6 and i != 22: #Verifica se o n escolhido nao está no monte1
+                if i not in monte1 and i != 6 and i != 22: #Verifica se o numero escolhido nao está no monte1
                     monte1.append(i) #Coloca os numeros escolhidos no monte1
         x = randint(0,13)
         monte1.insert(x,6) #Insere a carta Super trunfo no monte1 na posicao de indice aleatoria
