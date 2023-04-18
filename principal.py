@@ -59,7 +59,7 @@ while True:
                 catEscolha = int(input("\t\t==> "))
 
                 #Se o jogador digitar a categoria errada, ficara no loop até digitar corretamente
-                while True:
+                while True: 
                     if catEscolha <= 0 or catEscolha > 5:
                         print("Categoria errada, escolha uma categoria correta!")
                         for c in range(3, 0, -1):
