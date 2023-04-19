@@ -9,7 +9,7 @@ def inicio():
 def placar(a,b,c,d):
     print(f"{Fore.GREEN}{'P L A C A R':^61}")
     print(f"{'':>6}", f"{'_'}"*47)
-    print(f"{'JOGADOR:':>15} {len(a)} cartas    ||||  COMP:    {len(b)} cartas ")
+    print(f"{Back.WHITE}{Fore.BLACK}{'JOGADOR:':>15} {len(a)} cartas    ||||  COMP:    {len(b)} cartas ")
     print(f"{'BATALHA:':>15} {(c)}            ||||  BATALHA: {(d)}           ")
     print(f"{'':>6}", f"{'_'}"*47)
 
