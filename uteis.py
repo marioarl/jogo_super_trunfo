@@ -11,7 +11,7 @@ def placar(a,b,c,d):
     print(f"{'':>6}", f"{'_'}"*47)
     print(f"{Back.WHITE}{Fore.BLACK}{'JOGADOR:':>15} {len(a)} cartas    ||||  COMP:    {len(b)} cartas ")
     print(f"{Back.WHITE}{Fore.BLACK}{'BATALHA:':>15} {(c)}            ||||  BATALHA: {(d)}         ")
-    print(f"{'':>6}", f"{'_'}"*47)
+    print(f"{'':>6}", f"{'-'}"*47)
 
 
 def menu():
