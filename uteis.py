@@ -32,7 +32,7 @@ def menuPos(a):
 
 def mCartaPre(a):
     print("\n")
-    print(f"{'*'}"*10, f"{'SUA CARTA'}", f"{'*'}"*10 ,f"{'':>2}" , f"{'*'}"*9, f"{'COMPUTADOR'}", f"{'*'}"*9)
+    print(f"{Back.YELLOW}{Fore.BLACK}{'*'}"*10, f"{'SUA CARTA'}", f"{'*'}"*10 ,f"{'':>2}" , f"{'*'}"*9, f"{'COMPUTADOR'}", f"{'*'}"*9)
     print(f"{'*'}", f"{a['Pais']:^24}", f"\033[7;37;40m{a['ID']} *\033[m" ,f"{'':>2}" , f"*{'XXX':^28}*")
     print(f"* Modelo......: {a['Modelo']:<12}",f"{'*':>2}", f"{'':>2}" ,f"* Modelo......: {'XXXXXXX'}", f"{'*':>6}")
     print(f"* Potencia....: {a['Potencia']:>4}", f"{'KW':<9}*", f"{'':>2}" ,f"* Potencia....: {'XXXXX'} KW     *")
